@@ -1,1 +1,1 @@
-## Stock-Price-Prediction-Model-with-Regression-Algorithm-
+## Stock-Price-Prediction-Model-with-Regression-Algorithm
